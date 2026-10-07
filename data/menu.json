@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "chicken",
+        "price": 120.0
+    },
+    {
+        "id": 2,
+        "name": "paneer tikka",
+        "price": 180.0
+    },
+    {
+        "id": 3,
+        "name": "chicken biryani",
+        "price": 220.0
+    },
+    {
+        "id": 5,
+        "name": "butter chicken",
+        "price": 250.0
+    },
+    {
+        "id": 6,
+        "name": "dal makhani",
+        "price": 140.0
+    },
+    {
+        "id": 7,
+        "name": "chicken noodles",
+        "price": 150.0
+    },
+    {
+        "id": 8,
+        "name": "veg noodles",
+        "price": 120.0
+    },
+    {
+        "id": 9,
+        "name": "masala dosa",
+        "price": 100.0
+    },
+    {
+        "id": 10,
+        "name": "chole bhature",
+        "price": 110.0
+    },
+    {
+        "id": 11,
+        "name": "garlic naan",
+        "price": 60.0
+    },
+    {
+        "id": 12,
+        "name": "cold drink",
+        "price": 50.0
+    },
+    {
+        "id": 13,
+        "name": "chicken",
+        "price": 120.0
+    },
+    {
+        "id": 14,
+        "name": "jalebi fafda",
+        "price": 200.0
+    }
+]
